@@ -1,0 +1,5 @@
+{
+  "name": "Neon Tic Tac Toe",
+  "description": "A polished, animated Tic Tac Toe game with score tracking and neon aesthetics.",
+  "requestFramePermissions": []
+}
